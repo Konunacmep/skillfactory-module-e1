@@ -1,8 +1,5 @@
-[![Travis][build-badge]][build]
-
-[build-badge]: https://img.shields.io/travis/Konunacmep/skillfactory-module-e1/master.png?style=flat-square
-
-[build]: https://travis-ci.com/Konunacmep/skillfactory-module-e1
+## Travis-Build
+[![Build Status](https://api.travis-ci.org/Konunacmep/skillfactory-module-e1.png?branch=master)](https://travis-ci.org/Konunacmep/skillfactory-module-e1)
 
 # skillfactory-module-e1
 "Домашнее задание" - игра в виселицу.
